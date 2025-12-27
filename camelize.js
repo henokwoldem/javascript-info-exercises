@@ -4,13 +4,6 @@
 
 //function will find dashes and capetalize the character after it
 
-function toArray(str){
-    return str.split('');
-}
-
-function noDash(strArray){
-    return arr = strArray.filter(char => char != "-");
-}
 
 testStr = "list-style-image";
 ;
